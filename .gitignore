@@ -1,5 +1,5 @@
 .vscode
-main.dSYM
+/main.dSYM
 main
 
 *.exe
