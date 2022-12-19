@@ -1,0 +1,10 @@
+.vscode
+
+main.dSYM
+
+main
+
+#gitignorun kendisi bile olur .gitignore yada gibi *.exe
+
+
+
