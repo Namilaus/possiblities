@@ -1,7 +1,9 @@
 .vscode
+
 main.dSYM
 
 main.exec
 
+.gitignore
 
 
