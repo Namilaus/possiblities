@@ -1,6 +1,7 @@
 .vscode
 main.dSYM
-/main
+
+main.exe
 
 
 
